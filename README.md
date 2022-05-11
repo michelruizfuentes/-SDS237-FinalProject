@@ -66,44 +66,31 @@ If someone would like to self-report, they can go onto google (or any internet s
 Option 1:  submit a Vaers report online. The report must be completed online and submitted in one sitting and cannot be saved and returned to at a later time. Your information will be erased if you are inactive for 20 minutes; you will receive a warning after 15 minutes. 
 
 Steps for option 1:
-
-*Please note, There is a tab at the top of the online report that will automatically translate the report to Spanish.*
+*Please note, There is a tab at the top of the online report that will automatically translate the report to Spanish.* 
 
 When you click on this link it take you to the online form that requests this information:
-
-Patient information (age, date of birth, sex)
-
-Vaccine information (brand name, dosage)
-
-Date, time, and location administered
-
-Date and time when adverse event(s) started
-
-Symptoms and outcome of the adverse event(s)
-
-Medical tests and laboratory results (if applicable)
-
-Physician's contact information (if applicable)
+- Patient information (age, date of birth, sex)
+- Vaccine information (brand name, dosage)
+- Date, time, and location administered
+- Date and time when adverse event(s) started
+- Symptoms and outcome of the adverse event(s)
+- Medical tests and laboratory results (if applicable)
+- Physician's contact information (if applicable)
 
 Option 2: download the writable off form to a computer complete the Vaers report offline if you do not have time to complete it all at one. Return to this page to upload the completed writeable pdf form by clicking here. 
 
 Steps for option 2:
-
 After clicking on option 2,  the website will take you to an online page that allows users to download the writable off form of the VAERS self-report form. After downloading, the VAERS report will appear and have users fill out the same information listed above for the online report. 
 
-To submit the report:
-
-To submit the report, one will follow the instructions listed above until they return to the page for option 2. To continue uploading the VAERS report, please scroll down until you see step 2- instructions for uploading the writeable pdf form”
+To submit the report: one will follow the instructions listed above until they return to the page for option 2. To continue uploading the VAERS report, please scroll down until you see step 2- instructions for uploading the writeable pdf form”
 
 *Please note, There is a tab at the top of the online report that will automatically translate the report to Spanish.*
 
-Which will ask the user to verify the information listed above:
+Which will ask the user to verify the information listed above: 
 
 Verify you are using the latest version of the form, updated September 2021 (available in Step 1 section of this page). Enter your name and email address.
 Click on the "Browse" button, then navigate to the folder where you have saved the completed Writable PDF form. Select the Writable PDF form to upload.
-Verify that you would like to proceed to upload the file by typing the characters shown in the picture and click "Upload the Writable PDF Form".
-
-You will be provided an E-number for your reference on successful submission
+Verify that you would like to proceed to upload the file by typing the characters shown in the picture and click "Upload the Writable PDF Form". You will be provided an E-number for your reference on successful submission,
 
 Afterwards, the user will proceed to fill out their name, email, and then upload the pdf from your computer. The portal for uploading the document will then ask for a word verification for security purposes , where the user will type the characters shown in the picture above: please note that the letters are not case sensitive. Then press submit!
 
