@@ -1,6 +1,6 @@
 # Vaccine Adverse Event Reporting System User Guide
 
-- Runpeng Hu, Nikki Schuldt, Michel Ruiz Fuentes, Emarie De La Nuez
+- Runpeng Hu, Emarie De La Nuez, Nikki Schuldt, Michel Ruiz Fuentes
 - SD237 Data Ethnography 
 - 2 Nov. 2021
 
