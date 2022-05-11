@@ -6,7 +6,7 @@
 
 • 2 Nov. 2021
 
-Note: to view HTML version copy this link: https://htmlpreview.github.io/?https://raw.githubusercontent.com/SDS-237-Data-Ethnography-Fall-21/final-project-group1/main/final-project.html?token=GHSAT0AAAAAABUHEDELOJOGXG5HN7Y7GEWUYT3EQBA#introduction 
+Note: to view HTML version copy this link https://htmlpreview.github.io/?https://raw.githubusercontent.com/SDS-237-Data-Ethnography-Fall-21/final-project-group1/main/final-project.html?token=GHSAT0AAAAAABUHEDELOJOGXG5HN7Y7GEWUYT3EQBA#introduction 
 
 And: input the above link into this HTML preview generator: https://htmlpreview.github.io
 
