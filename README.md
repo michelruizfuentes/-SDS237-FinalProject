@@ -54,23 +54,39 @@ Due to the globalization and worldwide use of MedDRA, health professionals are m
 ## How to report to VAERS
 
 There are three ways an individual can gain access of the VAERS website and report forms
+
 If an individual wants to report the adverse effects from a vaccine, both the CDC and FDA recommend that individuals put themselves in contact with a healthcare professional. Afterwards, these healthcare professionals will take note of any given patient’s  effects alongside personal information and then fill out a VAERS report. 
+
 If someone would like to self-report, they can go onto google (or any internet search engine) and type “VAERS report.” In most, if not all, the first link will actually be “https://vaers.hhs.gov,” which is the home site for the Vaccine Adverse Event Reporting (VAERS).
+
  After clicking on this link, the homepage for the VAERS report will immediately appear on one’s screen. The top of the homepage for VAERS, will list these five tabs: “about VAERS”, “Report an Adverse Event”, “VAERS data”, “Resources”, and “Submit Follow up information”.  To continue the self-report, one will click on the “report an adverse event” tab, which will take one to a new page that states when a healthcare professional is by law required to report to the Vaers website and when the health care provider are strongly encouraged to report to Vaers.  To continue self-reporting, please scroll down page until you hit the header “ two ways to submit an online report to Vaers: 
+ 
 *Please note, There is a tab at the top of the online report that will automatically translate the website to Spanish.*
+
 Option 1:  submit a Vaers report online. The report must be completed online and submitted in one sitting and cannot be saved and returned to at a later time. Your information will be erased if you are inactive for 20 minutes; you will receive a warning after 15 minutes. 
+
 Steps for option 1:
+
 *Please note, There is a tab at the top of the online report that will automatically translate the report to Spanish.*
 
 When you click on this link it take you to the online form that requests this information:
+
 Patient information (age, date of birth, sex)
+
 Vaccine information (brand name, dosage)
+
 Date, time, and location administered
+
 Date and time when adverse event(s) started
+
 Symptoms and outcome of the adverse event(s)
+
 Medical tests and laboratory results (if applicable)
+
 Physician's contact information (if applicable)
+
 Option 2: download the writable off form to a computer complete the Vaers report offline if you do not have time to complete it all at one. Return to this page to upload the completed writeable pdf form by clicking here. 
+
 Steps for option 2:
 
 After clicking on option 2,  the website will take you to an online page that allows users to download the writable off form of the VAERS self-report form. After downloading, the VAERS report will appear and have users fill out the same information listed above for the online report. 
@@ -82,10 +98,13 @@ To submit the report, one will follow the instructions listed above until they r
 *Please note, There is a tab at the top of the online report that will automatically translate the report to Spanish.*
 
 Which will ask the user to verify the information listed above:
+
 Verify you are using the latest version of the form, updated September 2021 (available in Step 1 section of this page). Enter your name and email address.
 Click on the "Browse" button, then navigate to the folder where you have saved the completed Writable PDF form. Select the Writable PDF form to upload.
 Verify that you would like to proceed to upload the file by typing the characters shown in the picture and click "Upload the Writable PDF Form".
+
 You will be provided an E-number for your reference on successful submission
+
 Afterwards, the user will proceed to fill out their name, email, and then upload the pdf from your computer. The portal for uploading the document will then ask for a word verification for security purposes , where the user will type the characters shown in the picture above: please note that the letters are not case sensitive. Then press submit!
 
 ## Institutions Involved
@@ -109,4 +128,5 @@ Self-Reporting patients are also big stakeholders. They typically have lower int
 ## Important Note about VAERS data
 
 When attempting to draw conclusions from the VAERS data set, it is important to understand the limits that come with this method of data collection. Self-reporting is an important tool for gathering as much information on adverse reactions as possible, but it also has consequences. Self-reported data is naturally biased based on the opinions of the person reporting. VAERS can not eradicate the possibility of reports being made facetiously or with malintent. People who do not believe in the safety of vaccines have the ability to report fake or overexaggerated symptoms, as an attempt to instill fear in VAERS viewers about the vaccines being produced. For example, an anesthesiologist once reported that a vaccine turned him into the Hulk in order to prove the dangers of self-reporting data. 
+
 However, do not let this sway you to distrust VAERS data entirely, either. The most accurate understanding of the VAERS data set recognizes that data is biased and can come from unreliable sources, but due to the large size of the data set, is able to be trusted by vaccine producers and health organizations as a way of monitoring the effectiveness and safety of the vaccines we use today. Whether you end up being right or wrong about your symptoms being connected to the vaccine you received, reporting your symptoms is an extremely helpful tool for the future of vaccine science. [Here is a link to a relevant news source](https://www.npr.org/sections/health-shots/2021/06/14/1004757554/anti-vaccine-activists-use-a-federal-database-to-spread-fear-about-covid-vaccine).  
