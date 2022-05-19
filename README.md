@@ -4,7 +4,7 @@
 - SD237 Data Ethnography 
 - 2 Nov. 2021
 
-## Final Project Introduction
+## Introduction
 
 The VAERS data set documents adverse vaccine reactions in the United States. The data set is compromised of multiple sources of reporting, such as health care providers, vaccine producers, and patients themselves. This data is used to study vaccines and improve their overall quality and reduce the number of adverse reactions in the future.  
 
